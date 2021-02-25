@@ -6,4 +6,4 @@ Read me must be read.
 
 Some updates here.
 
-# Add something from updates branch
+# Add thing at the same location of other branch user
